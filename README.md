@@ -49,7 +49,7 @@ git clone https://github.com/your-username/time-tracker.git
 cd time-tracker
 npm install
 npm run dev
-
+```
 
 ## 🧪 Components Used
 ShadCN UI: Custom components like <Button />, <Card />, <Tabs />, <Toast />
